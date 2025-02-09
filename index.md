@@ -11,6 +11,8 @@ Lecturers are welcome to use the materials in their teaching and adapt them as n
 
 ## Introduction to Automated Analysis of Text (and Opinions) <br>
 [1. Processing text and text as data (Valerie Hase)](url) <br>
+[](url)
+[](url)
 <br>
 [2. Machine Learning for opinion research (Damian Trilling)](url) <br>
 <br>
