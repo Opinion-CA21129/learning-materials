@@ -19,8 +19,10 @@ Lecturers are welcome to use the materials in their teaching and adapt them as n
 [4. Unsupervised Text classification (Topic Modelling) (Valerie Hase)](url) <br>
 <br>
 [5. Supervised Text Classification (Damian Trilling)](url) <br>
+<br>
 
 **More info about this COST Action CA21129:** [https://www.opinion-network.eu/](url)
+<br>
 
 **COST (European Cooperation in Science and Technology)** is a funding agency for research and innovation networks. Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.<br>
 
