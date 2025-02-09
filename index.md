@@ -5,7 +5,7 @@
 ---
 This material is based upon work from COST Action (CA21129) **What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication (OPINION)**, supported by COST (European Cooperation in Science and Technology). <br>
 
-The learning resources accessible from this page were designed primarily as teaching materials for the OPINION network training school [NAME OF SCHOOL WITH LINK TO THE SCHOOL PAGE ON PROJECT WEBSITE] that took place from [DAY] to [DAY], [MONTH] [YEAR] in [Salamanca, Spain]. 
+The learning resources accessible from this page were designed primarily as teaching materials for the [COST Action Training School in Computational Opinion Analysis (COpA)](url) that took place in June 2024 at the University of Salamanca, Spain.<br> 
 
 Lecturers are welcome to use the materials in their teaching and adapt them as needed, respecting the CC license. Learners are welcome to use them on their own as tutorials. <br>
 
@@ -24,5 +24,4 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 * More info about this COST Action CA21129: [https://www.opinion-network.eu/](url)
 
-## COST (European Cooperation in Science and Technology)## 
-is a funding agency for research and innovation networks. Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.<br>
+**COST (European Cooperation in Science and Technology)** is a funding agency for research and innovation networks. Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.<br>
