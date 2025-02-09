@@ -19,9 +19,8 @@ The learning resources accessible from this page were designed primarily as teac
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. <br>
 
-This material is based upon work from COST Action What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication (OPINION), CA21129, supported by COST (European Cooperation in Science and Technology).
+This material is based upon work from COST Action (CA21129) **What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication (OPINION)**, supported by COST (European Cooperation in Science and Technology). <br>
+
+More info about this COST Action: [https://www.opinion-network.eu/](url)
+
 COST (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.<br>
-
-[https://www.opinion-network.eu/](url)
-
-  
