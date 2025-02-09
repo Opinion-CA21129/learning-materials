@@ -1,5 +1,6 @@
 
----![COST_LOGO_rgb_highresolution](https://github.com/user-attachments/assets/d372afea-37a7-46d1-b779-ca33541682f3)
+![Funded by the EU](https://github.com/user-attachments/assets/5888b292-0b0d-4181-a386-a9119ada2b88)
+
 
 # Welcome to the OPINION network learning resources! 
 ---
