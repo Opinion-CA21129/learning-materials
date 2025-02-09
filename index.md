@@ -10,10 +10,8 @@ The learning resources accessible from this page were designed primarily as teac
 Lecturers are welcome to use the materials in their teaching and adapt them as needed, respecting the CC license. Learners are welcome to use them on their own as tutorials. <br>
 
 ## Introduction to Automated Analysis of Text (and Opinions) <br>
-[1. Processing text and text as data (Valerie Hase)](url) <br>
-<br>
-https://github.com/valeriehase/Salamanca-CSS-SummerSchool/tree/8e93179e4333d933d6d6bf068ce3b1dfbed8f9d5/Processing%20text%20and%20text%20as%20data
-
+[1. Processing text and text as data (Valerie Hase)
+](url)<br>
 [2. Machine Learning for opinion research (Damian Trilling)](url) <br>
 <br>
 [3. Rule-Based Text classification (Lexicon-based Approaches) (Johannes Gruber)](url) <br>
