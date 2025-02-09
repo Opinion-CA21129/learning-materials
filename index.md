@@ -1,5 +1,5 @@
 ---
-title: Welcome to Opinion Blog
+# Welcome to the OPINION network learning resources! 
 ---
 
 ## Introduction to Automated Analysis of Text (and Opinions) <br>
