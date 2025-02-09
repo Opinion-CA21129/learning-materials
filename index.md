@@ -1,4 +1,5 @@
-![Funded by the EU (4)](https://github.com/user-attachments/assets/4174b35c-da66-4cfa-b374-2bad93dc9951)
+
+![Funded by the EU (5)](https://github.com/user-attachments/assets/0307ca8e-50a5-44a7-aef7-b36af5df794b)
 
 # Welcome to the OPINION network learning resources! 
 ---
