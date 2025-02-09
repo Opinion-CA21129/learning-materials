@@ -1,4 +1,6 @@
----
+
+---![COST_LOGO_rgb_highresolution](https://github.com/user-attachments/assets/d372afea-37a7-46d1-b779-ca33541682f3)
+
 # Welcome to the OPINION network learning resources! 
 ---
 
