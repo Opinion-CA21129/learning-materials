@@ -1,5 +1,5 @@
 
-:![Funded by the EU (3)](https://github.com/user-attachments/assets/604b013b-b67c-4db5-a84b-27a1981039b7):
+[align=centre ![Funded by the EU (3)](https://github.com/user-attachments/assets/604b013b-b67c-4db5-a84b-27a1981039b7)]
 
 # Welcome to the OPINION network learning resources! 
 ---
