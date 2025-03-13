@@ -5,20 +5,20 @@
 ---
 This material is based upon work from COST Action (CA21129) **What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication (OPINION)**, supported by COST (European Cooperation in Science and Technology). <br>
 
-The learning resources accessible from this page were designed primarily as teaching materials for the [COST Action Training School in Computational Opinion Analysis (COpA)](url) that took place in June 2024 at the University of Salamanca, Spain.<br> 
+The learning resources accessible from this page were designed primarily as teaching materials for the [COST Action Training School in Computational Opinion Analysis (COpA)](https://www.opinion-network.eu/updates/cost-action-training-school-in-salamanca-spain_2023-11-07). The first edition took place in June 2024 at the University of Salamanca, Spain. The second edition will take place in [June 2025 in Elbasan, Albania](https://www.opinion-network.eu/updates/cost-action-training-school-in-tirana-albania_2025-01-29) . <br> 
 
 Lecturers are welcome to use the materials in their teaching and adapt them as needed, respecting the CC license. Learners are welcome to use them on their own as tutorials. <br>
 
 ## Introduction to Automated Analysis of Text (and Opinions) <br>
 [1. Processing text and text as data (Valerie Hase)](https://github.com/valeriehase/Salamanca-CSS-SummerSchool/tree/main)<br>
 <br>
-[2. Machine Learning for opinion research (Damian Trilling)](url) <br>
+[2. Machine Learning for opinion research (Damian Trilling)](https://github.com/damian0604/teaching-cost) <br>
 <br>
-[3. Rule-Based Text classification (Lexicon-based Approaches) (Johannes Gruber)](url) <br>
+[3. Rule-Based Text classification (Lexicon-based Approaches) (Johannes Gruber)](https://github.com/JBGruber/copa_summer-school-dictionary) <br>
 <br>
-[4. Unsupervised Text classification (Topic Modelling) (Valerie Hase)](url) <br>
+[4. Unsupervised Text classification (Topic Modelling) (Valerie Hase)](https://github.com/valeriehase/Salamanca-CSS-SummerSchool/tree/main) <br>
 <br>
-[5. Supervised Text Classification (Damian Trilling)](url) <br>
+[5. Supervised Text Classification (Damian Trilling)](https://github.com/damian0604/teaching-cost) <br>
 <br>
 
 **More info about this COST Action CA21129:** [https://www.opinion-network.eu/](url)
