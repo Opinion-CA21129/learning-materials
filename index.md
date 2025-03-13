@@ -5,11 +5,11 @@
 ---
 This material is based upon work from COST Action (CA21129) **What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication (OPINION)**, supported by COST (European Cooperation in Science and Technology). <br>
 
-The learning resources accessible from this page were designed primarily as teaching materials for the [COST Action Training School in Computational Opinion Analysis (COpA)](https://www.opinion-network.eu/updates/cost-action-training-school-in-salamanca-spain_2023-11-07). The first edition took place in June 2024 at the University of Salamanca, Spain. The second edition will take place in [June 2025 in Elbasan, Albania](https://www.opinion-network.eu/updates/cost-action-training-school-in-tirana-albania_2025-01-29) . <br> 
+The learning resources accessible from this page were designed primarily as teaching materials for the **COST Action Training School in Computational Opinion Analysis (COpA)**. The first edition took place in [June 2024 at the University of Salamanca, Spain](https://www.opinion-network.eu/updates/cost-action-training-school-in-salamanca-spain_2023-11-07). The second edition will take place in [June 2025 in Elbasan, Albania](https://www.opinion-network.eu/updates/cost-action-training-school-in-tirana-albania_2025-01-29) . <br> 
 
-Lecturers are welcome to use the materials in their teaching and adapt them as needed, respecting the CC license. Learners are welcome to use them on their own as tutorials. <br>
 
-## Introduction to Automated Analysis of Text (and Opinions) <br>
+
+**COpA 2024. Introduction to Automated Analysis of Text (and Opinions)** <br>
 [1. Processing text and text as data (Valerie Hase)](https://github.com/valeriehase/Salamanca-CSS-SummerSchool/tree/main)<br>
 <br>
 [2. Machine Learning for opinion research (Damian Trilling)](https://github.com/damian0604/teaching-cost) <br>
@@ -21,9 +21,19 @@ Lecturers are welcome to use the materials in their teaching and adapt them as n
 [5. Supervised Text Classification (Damian Trilling)](https://github.com/damian0604/teaching-cost) <br>
 <br>
 
-**More info about this COST Action CA21129:** [https://www.opinion-network.eu/](url)
+**More info about this COST Action CA21129:** [https://www.opinion-network.eu/](https://www.opinion-network.eu/)
 <br>
 
-**COST (European Cooperation in Science and Technology)** is a funding agency for research and innovation networks. Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.<br>
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. <br>
+Lecturers are welcome to use the materials in their teaching and adapt them as needed, respecting the CC license. Learners are welcome to use them on their own as tutorials. <br>
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). <br>
+![image](https://github.com/user-attachments/assets/afea7a71-101b-4c98-a80a-ffcf170c0bf4)
+
+BELOW THIS THE APPROPRIATE LOGOS SHOULD BE USED IN LINE WITH https://www.cost.eu/uploads/2024/10/COST_actions-guidelines_adapted_17_12_2024.pdf
+
+ALONG WITH:
+
+This material is based upon work from COST Action What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication (OPINION), CA21129, supported by COST (European Cooperation in Science and Technology).
+
+**COST (European Cooperation in Science and Technology)** is a funding agency for research and innovation networks. Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
