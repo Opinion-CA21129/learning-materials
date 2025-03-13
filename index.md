@@ -20,11 +20,10 @@ The learning resources accessible from this page were designed primarily as teac
 <br>
 [5. Supervised Text Classification (Damian Trilling)](https://github.com/damian0604/teaching-cost) <br>
 <br>
+<br>
+<br>
 
 **More info about this COST Action CA21129:** [https://www.opinion-network.eu/](https://www.opinion-network.eu/)
-<br>
-<br>
-<br>
 <br>
 
 Lecturers are welcome to use the materials in their teaching and adapt them as needed, respecting the CC license. Learners are welcome to use them on their own as tutorials. <br>
