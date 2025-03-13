@@ -6,9 +6,8 @@
 This material is based upon work from COST Action (CA21129) **What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication (OPINION)**, supported by COST (European Cooperation in Science and Technology). <br>
 
 The learning resources accessible from this page were designed primarily as teaching materials for the **COST Action Training School in Computational Opinion Analysis (COpA)**. The first edition took place in [June 2024 at the University of Salamanca, Spain](https://www.opinion-network.eu/updates/cost-action-training-school-in-salamanca-spain_2023-11-07). The second edition will take place in [June 2025 in Elbasan, Albania](https://www.opinion-network.eu/updates/cost-action-training-school-in-tirana-albania_2025-01-29) . <br> 
-
-
-
+<br>
+<br>
 **COpA 2024. Introduction to Automated Analysis of Text (and Opinions)** <br>
 
 [1. Processing text and text as data (Valerie Hase)](https://github.com/valeriehase/Salamanca-CSS-SummerSchool/tree/main)<br>
