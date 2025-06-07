@@ -27,9 +27,9 @@ The learning resources accessible from this page were designed primarily as teac
 <br>
 [2. Algorithmic Bias (Aleksandra Urman)](https://drive.google.com/drive/folders/1jzajKwvW3_eB0zkH14RUg3g0yMP9DcAY)
 <br>
-[3. Multi-Lingual Analysis (Jamal Nasir)] (https://github.com/jamal833/COpA2025-MultiLingual)
+[3. Multi-Lingual Analysis (Jamal Nasir)](https://github.com/jamal833/COpA2025-MultiLingual)
 <br>
-[4. Multi-Modal Topic (Felicia Loecherbach)] (https://github.com/FeLoe/opinion-elbasan-image-analysis)<br>
+[4. Multi-Modal Topic (Felicia Loecherbach)](https://github.com/FeLoe/opinion-elbasan-image-analysis)<br>
 <br>
 
 **More info about this COST Action CA21129:** [https://www.opinion-network.eu/](https://www.opinion-network.eu/)
