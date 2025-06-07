@@ -22,7 +22,7 @@ The learning resources accessible from this page were designed primarily as teac
 <br>
 <br>
 
-**COpA 2025<br>
+**COpA 2025**<br>
 <br> [1. Social Network Analysis (Johannes Gruber)](https://github.com/JBGruber/2025_SNA_COpA)
 <br><br>
 [2. Algorithmic Bias (Aleksandra Urman)](https://drive.google.com/drive/folders/1jzajKwvW3_eB0zkH14RUg3g0yMP9DcAY)
