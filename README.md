@@ -12,7 +12,7 @@ The learning resources accessible from this page were designed primarily as teac
 
 [1. Processing text and text as data (Valerie Hase)](https://github.com/valeriehase/Salamanca-CSS-SummerSchool/tree/main)<br>
 <br>
-[2. Machine Learning for opinion research (Damian Trilling)](https://github.com/damian0604/teaching-cost) <br>
+[2. Machine Learning for opinion research (Damian Trilling)](https://github.com/Opinion-CA21129/Damian.-COpA-2024) <br>
 <br>
 [3. Rule-Based Text classification (Lexicon-based Approaches) (Johannes Gruber)](https://github.com/JBGruber/copa_summer-school-dictionary) <br>
 <br>
