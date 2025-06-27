@@ -10,15 +10,15 @@ The learning resources accessible from this page were designed primarily as teac
 <br>
 **COpA 2024. Introduction to Automated Analysis of Text (and Opinions)** <br>
 
-[1. Processing text and text as data (Valerie Hase)](https://github.com/valeriehase/Salamanca-CSS-SummerSchool/tree/main)<br>
+[1. Processing text and text as data (Valerie Hase)](https://github.com/Opinion-CA21129/COpA-2024_Hase_Processing-text-and-text-as-data_and_Topic-modeling)<br>
 <br>
-[2. Machine Learning for opinion research (Damian Trilling)](https://github.com/Opinion-CA21129/Damian.-COpA-2024) <br>
+[2. Machine Learning for opinion research (Damian Trilling)](https://github.com/Opinion-CA21129/COpA-2024-Trilling-Machine-learning-for-opinion-research_and_Supervised_text_classification) <br>
 <br>
-[3. Rule-Based Text classification (Lexicon-based Approaches) (Johannes Gruber)](https://github.com/JBGruber/copa_summer-school-dictionary) <br>
+[3. Rule-Based Text classification (Lexicon-based Approaches) (Johannes Gruber)](https://github.com/Opinion-CA21129/COpA-2024_Gruber_Lexicon-based_approaches_and_Supervised_text_classification) <br>
 <br>
-[4. Unsupervised Text classification (Topic Modelling) (Valerie Hase)](https://github.com/valeriehase/Salamanca-CSS-SummerSchool/tree/main) <br>
+[4. Unsupervised Text classification (Topic Modelling) (Valerie Hase)](https://github.com/Opinion-CA21129/COpA-2024_Hase_Processing-text-and-text-as-data_and_Topic-modeling) <br>
 <br>
-[5. Supervised Text Classification (Damian Trilling)](https://github.com/damian0604/teaching-cost) <br>
+[5. Supervised Text Classification (Damian Trilling)](https://github.com/damian0604/teaching-cost](https://github.com/Opinion-CA21129/COpA-2024-Trilling-Machine-learning-for-opinion-research_and_Supervised_text_classification) <br>
 <br>
 <br>
 
