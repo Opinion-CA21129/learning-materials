@@ -8,7 +8,7 @@ This material is based upon work from COST Action (CA21129) **What are Opinions?
 The learning resources accessible from this page were designed primarily as teaching materials for the **COST Action Training School in Computational Opinion Analysis (COpA)**. The first edition took place in [June 2024 at the University of Salamanca, Spain](https://www.opinion-network.eu/updates/cost-action-training-school-in-salamanca-spain_2023-11-07). The second edition will take place in [June 2025 in Elbasan, Albania](https://www.opinion-network.eu/updates/cost-action-training-school-in-tirana-albania_2025-01-29) . <br> 
 <br>
 <br>
-**COpA 2024: Introduction to Automated Analysis of Text (and Opinions)** <br>
+**COpA 2024: Introduction to Automated Analysis of Text and Opinions** <br>
 
 [1. Processing text and text as data (Valerie Hase)](https://github.com/Opinion-CA21129/COpA-2024_Hase_Processing-text-and-text-as-data_and_Topic-modeling)<br>
 <br>
@@ -22,7 +22,7 @@ The learning resources accessible from this page were designed primarily as teac
 <br>
 <br>
 
-**COpA 2025: 2nd Ed**<br>
+**COpA 2025: 2nd Ed.**<br>
 <br> [1. Social Network Analysis (Johannes Gruber)](https://github.com/Opinion-CA21129/COpA-2025_Gruber_Social-network-analysis)
 <br><br>
 [2. Algorithmic Bias (Aleksandra Urman)](https://drive.google.com/drive/folders/1jzajKwvW3_eB0zkH14RUg3g0yMP9DcAY)
