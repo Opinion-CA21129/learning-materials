@@ -18,7 +18,7 @@ The learning resources accessible from this page were designed primarily as teac
 <br>
 [4. Unsupervised Text classification (Topic Modelling) (Valerie Hase)](https://github.com/Opinion-CA21129/COpA-2024_Hase_Processing-text-and-text-as-data_and_Topic-modeling) <br>
 <br>
-[5. Supervised Text Classification (Damian Trilling)](https://github.com/damian0604/teaching-cost](https://github.com/Opinion-CA21129/COpA-2024-Trilling-Machine-learning-for-opinion-research_and_Supervised_text_classification) <br>
+[5. Supervised Text Classification (Damian Trilling)](https://github.com/Opinion-CA21129/COpA-2024-Trilling-Machine-learning-for-opinion-research_and_Supervised_text_classification) <br>
 <br>
 <br>
 
